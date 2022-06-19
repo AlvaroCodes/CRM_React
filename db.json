@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "ALvaro",
+      "empresa": "ALvaroCOdes",
+      "email": "alvaroramirez@alvarocodes.com",
+      "telefono": "2345224",
+      "notas": "Hola me llamo ALvaro",
+      "id": 1
+    },
+    {
+      "nombre": "ALvaro",
+      "empresa": "ALvaroCOdes",
+      "email": "alvaroramirez@alvarocodes.com",
+      "telefono": "2345224",
+      "notas": "Hola me llamo ALvaro",
+      "id": 2
+    },
+    {
+      "nombre": "Pepe",
+      "empresa": "Prueba",
+      "email": "prueba@prueba.com",
+      "telefono": "34543",
+      "notas": "Prueba Navigate",
+      "id": 3
+    }
+  ]
+}
